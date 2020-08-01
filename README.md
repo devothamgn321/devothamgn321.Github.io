@@ -1,2 +1,2 @@
-# devothamgn321.github.io
+# devothamgn321.Github.io
 Web designing for everyone!
