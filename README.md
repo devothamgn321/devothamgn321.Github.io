@@ -1,6 +1,6 @@
 # devothamgn321.Github.io
-Web designing for everyone!
-sample1
+
+sample aste guruve!
 <!-- 2. Best/proper way to declare that your page uses HTML5 protocol -->
 <!DOCTYPE html>
 
